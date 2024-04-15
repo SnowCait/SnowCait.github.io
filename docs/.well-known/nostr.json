@@ -6,5 +6,24 @@
     "REQ": "3294223f5399ef5ae0986b2ab1982763dac38011e93b70d8789c4772bd01a515",
     "search":"9ab9730c372a5040c78a31806bf04f612cb3b5c7cdd8ea73b987de2aed9d587b",
     "btc_jpy": "b1e86fc11752545baed5a05d2778405b46a8c781f097da15d8310ace9811c220"
+  },
+  "relays": {
+    "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689": [
+      "wss://nos.lol/",
+      "wss://relay-jp.nostr.wirednet.jp/",
+      "wss://nostr.holybea.com/",
+      "wss://nostrja-kari.heguro.com/",
+      "wss://relay.nostr.band/",
+      "wss://nostr.fediverse.jp/",
+      "wss://nostream.ocha.one/",
+      "wss://yabu.me/",
+      "wss://r.kojira.io/",
+      "wss://relay-jp.nostr.moctane.com/",
+      "wss://nrelay-jp.c-stellar.net/",
+      "wss://riray.nostr1.com/",
+      "wss://ren.nostr1.com/",
+      "wss://relay.nostr.wirednet.jp/",
+      "wss://nostr.mom/"
+    ]
   }
 }
