@@ -20,10 +20,14 @@
       "wss://r.kojira.io/",
       "wss://relay-jp.nostr.moctane.com/",
       "wss://nrelay-jp.c-stellar.net/",
-      "wss://riray.nostr1.com/",
-      "wss://ren.nostr1.com/",
       "wss://relay.nostr.wirednet.jp/",
-      "wss://nostr.mom/"
+      "wss://nostr.mom/",
+      "wss://nostr.compile-error.net/",
+      "wss://cagliostr.compile-error.net/",
+      "wss://nosdrive.app/relay",
+      "wss://cfrelay.snowcait.workers.dev/",
+      "wss://n3r.xyz/",
+      "wss://nostr-relay.nokotaro.com/"
     ]
   }
 }
