@@ -13,23 +13,15 @@
     "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689": [
       "wss://nos.lol/",
       "wss://relay-jp.nostr.wirednet.jp/",
-      "wss://nostr.holybea.com/",
-      "wss://nostrja-kari.heguro.com/",
-      "wss://relay.nostr.band/",
       "wss://nostr.fediverse.jp/",
       "wss://nostream.ocha.one/",
       "wss://yabu.me/",
       "wss://r.kojira.io/",
-      "wss://relay-jp.nostr.moctane.com/",
       "wss://nrelay-jp.c-stellar.net/",
       "wss://relay.nostr.wirednet.jp/",
       "wss://nostr.mom/",
       "wss://nostr.compile-error.net/",
       "wss://cagliostr.compile-error.net/",
-      "wss://nosdrive.app/relay",
-      "wss://cfrelay.snowcait.workers.dev/",
-      "wss://n3r.xyz/",
-      "wss://nostr-relay.nokotaro.com/"
     ]
   }
 }
