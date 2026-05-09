@@ -21,7 +21,7 @@
       "wss://relay.nostr.wirednet.jp/",
       "wss://nostr.mom/",
       "wss://nostr.compile-error.net/",
-      "wss://cagliostr.compile-error.net/",
+      "wss://cagliostr.compile-error.net/"
     ]
   }
 }
